@@ -1,2 +1,2 @@
-# homework
-homework repo
+# homework repository
+otus homework 
