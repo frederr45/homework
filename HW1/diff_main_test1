@@ -1,0 +1,38 @@
+diff --git a/README.md b/README.md
+index 88047c4..a3708df 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,2 @@
+-# homework repository
+-otus homework 
++# test1 branch
++
+diff --git a/diff_main_test1 b/diff_main_test1
+deleted file mode 100644
+index 2a73357..0000000
+--- a/diff_main_test1
++++ /dev/null
+@@ -1,9 +0,0 @@
+-diff --git a/README.md b/README.md
+-index 88047c4..a3708df 100644
+---- a/README.md
+-+++ b/README.md
+-@@ -1,2 +1,2 @@
+--# homework repository
+--otus homework 
+-+# test1 branch
+-+
+diff --git a/diff_test1_test2 b/diff_test1_test2
+deleted file mode 100644
+index d9f3b6e..0000000
+--- a/diff_test1_test2
++++ /dev/null
+@@ -1,8 +0,0 @@
+-diff --git a/README.md b/README.md
+-index a3708df..db69794 100644
+---- a/README.md
+-+++ b/README.md
+-@@ -1,2 +1,2 @@
+--# test1 branch
+-+# test2 branch
+- 
